@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.srctech.store"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "store",
+        "packageName": "com.srctech.store",
+        "packageFolder": "com/srctech/store",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mariadb",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "N2Q4YzYwMzc3ODQ3ZWUyZTg1ZWU0MDlmYzZmMzkwZTQxYWE0YWIyODM5Mjc2ZGJkMmM5OWIwYjAwNzkyNTRkOWQ5MjU5MjA2NjQ0NGNmMmNkNDA4YTg2MjMzMTk3Y2FjYThlYmExNDlhY2FjZjRhM2MwM2M0M2ViNTA2YzQzMDk=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
